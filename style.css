@@ -1,0 +1,4 @@
+.container {display: flex; align-items: center; justify-content: center;}
+#i1, #i2, #i3, #i4, #i5 {width: 150px; height: 150px; margin: 40px; padding: 10px; box-shadow: 0 0 8px grey;}
+h2 {text-align: center;}
+input{cursor: pointer;}
